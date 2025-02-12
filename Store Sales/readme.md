@@ -38,4 +38,4 @@
 ## Результат
 По итогам соревнования на Kaggle модель достигла **Score = 0.4166** (RMSLE), что позволило занять **62 место** в общем рейтинге участников.
 
-![Image](https://github.com/user-attachments/assets/56330673-106b-4f5e-a5fb-eee7a0be4198)
+![Image](https://github.com/user-attachments/assets/9771e6f2-3f65-401e-a8de-d5764e701e21)
